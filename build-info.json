@@ -1,0 +1,46 @@
+{
+  "note": "สร้างโดย deck/build.mjs — dist/ เปิดได้ด้วยการดับเบิลคลิก index.html (Chrome) · scene.mp4 = วิดีโอสำรองของสไลด์ 3 · clips/ = คลิปวนของสไลด์ 1 2 4 5",
+  "builtAt": "2026-11-14T12:47:51.161Z",
+  "sourceHash": "51e2d51aa228a0ff300d62adeffef48d28664ff326147d29769297e873487157",
+  "sourceFileCount": 49,
+  "files": {
+    "index.html": {
+      "bytes": 28209442,
+      "sha256": "4e2b77c3b8029c20fe5a0f0d684aea949e00c4f6be6ca023269d002edb1dc233"
+    },
+    "scene.mp4": {
+      "bytes": 53086158,
+      "sha256": "f1c4dd3f8d01222953c4c53594eb8d83613ad8e29e9940b700c8f818af90833c"
+    }
+  },
+  "clips": {
+    "before-board": {
+      "slide": 1,
+      "start": 7.5,
+      "end": 15,
+      "bytes": 11651299,
+      "sha256": "ba7f944c58fd873b4ee6fd32f43b8dc70428ac95d9aa49ddd4cc40c7f95c9038"
+    },
+    "before-wait": {
+      "slide": 2,
+      "start": 1,
+      "end": 7.5,
+      "bytes": 6721509,
+      "sha256": "2da00c11b9579e8e0f1d7b19eb2323406d520f527ce41d50e01b6b6ad543434a"
+    },
+    "after-move": {
+      "slide": 4,
+      "start": 21.5,
+      "end": 29,
+      "bytes": 7621786,
+      "sha256": "25e21f7c465754e3fd05f9de908727a13ee63b4b6dcf2b53a368379586d0ee9d"
+    },
+    "after-board": {
+      "slide": 5,
+      "start": 29,
+      "end": 36.5,
+      "bytes": 10933092,
+      "sha256": "e36a8ec6770fc5933bb17ce9047cfee4a3ab39b9b8f010b9eba8abac4065b82f"
+    }
+  }
+}
