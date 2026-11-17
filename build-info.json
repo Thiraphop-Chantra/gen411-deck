@@ -1,12 +1,12 @@
 {
   "note": "สร้างโดย deck/build.mjs — dist/ เปิดได้ด้วยการดับเบิลคลิก index.html (Chrome) · scene.mp4 = วิดีโอสำรองของสไลด์ 3 · clips/ = คลิปวนของสไลด์ 1 2 4 5",
-  "builtAt": "2026-11-14T16:22:02.575Z",
-  "sourceHash": "6a9b2f3014748fbe01e257aa4fd48f01a30750855f54a0437254cea38401b479",
+  "builtAt": "2026-11-17T02:14:04.330Z",
+  "sourceHash": "d621158a79d3e43605d3e565d71bb1a2a301791977e3fa02ad105bfd7e0d1b05",
   "sourceFileCount": 49,
   "files": {
     "index.html": {
-      "bytes": 28209743,
-      "sha256": "68edb8ff691a746dd50dfb0e90e9de081f5945490c665cff94e5a65671207605"
+      "bytes": 28210186,
+      "sha256": "78a4bb9cd5c4b0329a07c937915bd183ac3809c5451cd130344a86f1316a6bf2"
     },
     "scene.mp4": {
       "bytes": 53086158,
